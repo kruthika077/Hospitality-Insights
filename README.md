@@ -22,7 +22,7 @@ Creating measures using the DAX language.
 Build Executive View, Finance View, Revenue View, Occupancy and Booking View and Key Metrics View.
 Designing an effective Dashboard which includes page navigation with buttons, tooltips, using KPI’s, conditional formatting of the values in visuals.
 Deploying the solution using Power BI Service.
-Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiNzk3N2U1NjUtMDJmZS00ZWMzLWI4Y2ItNzA1ZGE4Y2EyNWJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Dashboard link:[ https://app.powerbi.com/view?r=eyJrIjoiNzk3N2U1NjUtMDJmZS00ZWMzLWI4Y2ItNzA1ZGE4Y2EyNWJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/groups/me/reports/fb05b30e-d609-455d-930f-51e730bcde5d/ee9abe2760b3bcb61e24?bookmarkGuid=3a2a293f-b6a0-47a9-abb2-ba30485ed844&bookmarkUsage=1&ctid=1ad0b98d-dfa7-436f-bce3-195d1ca221fe&portalSessionId=a8bc5a50-d67b-44b7-b1ce-eac6bdceabbb&fromEntryPoint=export)
 LinkedIn: https://www.linkedin.com/in/venkata-siva-santhi-anantha-71634a27a/
 Key metrics:
 
